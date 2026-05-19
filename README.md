@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <sub>open to work · internships · collaborations · <a href="mailto:tanishmohan24@gmail.com">tanishmohan24@gmail.com</a></sub>
+  <sub>open to work · collaborations · <a href="mailto:tanishmohan24@gmail.com">tanishmohan24@gmail.com</a></sub>
 </p>
 
 <div align="center">
