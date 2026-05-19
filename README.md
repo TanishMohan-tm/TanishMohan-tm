@@ -2,21 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1DB954,100:0B6E4F&height=140&section=header" width="100%"/>
 </div>
 
----
-
-## 🧑‍💻 About Me
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/TanishMohan-tm/TanishMohan-tm/main/terminal.svg" width="660" alt="Terminal"/>
 </p>
 
-<p align="center">
-  <a href="mailto:tanishmohan24@gmail.com"><code>📧 tanishmohan24@gmail.com</code></a> · <a href="https://linkedin.com/in/tanishmohan"><code>LinkedIn →</code></a>
+<p>
+   
 </p>
 
----
 
-## 🛠️ Tech Stack
 
 **Languages**
 
@@ -39,9 +33,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
 
-## 📊 Development Analytics
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanishMohan-tm&bg_color=0d1117&color=1DB954&line=1DB954&point=A5F3C6&area=true&hide_border=true&hide_title=true" width="95%" alt="Activity Graph"/>
