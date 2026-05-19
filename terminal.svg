@@ -37,7 +37,7 @@
   <text class="ln l2" x="20" y="88" fill="#8b949e">{</text>
   <text class="ln l3" x="20" y="108"><tspan fill="#79c0ff">"name"</tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#a5f3c6">"Tanish Mohan"</tspan><tspan fill="#8b949e">,</tspan></text>
   <text class="ln l4" x="20" y="128"><tspan fill="#79c0ff">"role"</tspan><tspan fill="#8b949e">:  </tspan><tspan fill="#a5f3c6">"AI Engineer"</tspan><tspan fill="#8b949e">,</tspan></text>
-  <text class="ln l5" x="20" y="148"><tspan fill="#79c0ff">"stack"</tspan><tspan fill="#8b949e">: [</tspan><tspan fill="#a5f3c6">"Python"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5f3c6">"TensorFlow"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5f3c6">"LangChain"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5f3c6">"SQL"</tspan><tspan fill="#8b949e">]</tspan></text>
+  <text class="ln l5" x="20" y="148"><tspan fill="#79c0ff">"strength"</tspan><tspan fill="#8b949e">: [</tspan><tspan fill="#a5f3c6">"Python"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5f3c6">"TensorFlow"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5f3c6">"LangChain"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5f3c6">"SQL"</tspan><tspan fill="#8b949e">]</tspan></text>
   <text class="ln l6" x="20" y="168" fill="#8b949e">}</text>
   <text class="ln l7" x="20" y="180"><tspan fill="#1DB954">❯ </tspan></text>
   <rect class="ln l7 cur" x="36" y="168" width="7" height="13" fill="#1DB954"/>
