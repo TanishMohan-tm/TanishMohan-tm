@@ -37,19 +37,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanishMohan-tm&bg_color=0d1117&color=1DB954&line=1DB954&point=A5F3C6&area=true&hide_border=true&hide_title=true" width="95%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODd0aHZxcGJqZmRhZGI3NTZ6eTg3ZG9nZTExZng4dzIzaWZxOWh0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2rABGk0WV4wHDvznj1/giphy.gif" alt="Sticker Left" height="100"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczMxczF5YnkxMjRzaDMyeWc4Z2xmMTh4ZW1yYXNwOXFwdjRuaTNhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy6vVzlwd31lgLm/giphy.gif" alt="Middle GIF" height="100"/>
+ 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1wMzl5NW55aXh6eDdpaGh5M3FkMm8xeHJ1OTZoY3AyaXFvcDh0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6w6oHA2eHfD9LakLaT/giphy.gif" alt="Sticker Right" height="100"/>
 </p>
 
----
 
 <p align="center">
-  <sub>open to work · collaborations · <a href="mailto:tanishmohan24@gmail.com">tanishmohan24@gmail.com</a></sub>
+  <sub>open to work · collaborations · </sub>
 </p>
 
 <div align="center">
